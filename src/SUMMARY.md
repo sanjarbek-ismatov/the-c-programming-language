@@ -4,3 +4,4 @@
 - [Chapter 1 - A Tutorial Introduction](./02.a-tutorial-introduction.md)
     - [Getting Started](./03.getting-started.md)
     - [Variables and Arithmetic Expressions](./04.variables-and-arithmetic-expressions.md)
+    - [The for statement](./05.the-for-statement.md)
