@@ -1,0 +1,5 @@
+[book]
+authors = ["Sanjarbek"]
+language = "en"
+src = "src"
+title = "The C programming Language 2nd Edition"
